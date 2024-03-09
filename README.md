@@ -6,7 +6,7 @@
   The ultimate goal of the app is to facilitate rapid incident reporting, where users vetted by law enforcement can request immediate assistance with a single click (such as a triple volume button click).
 </p>
 
-## This is the initial version of the application and it includes basic functionalities such as:
+### This is the initial version of the application and it includes basic functionalities such as:
 -  User registration (Sign up)
 - User authentication (Login)
 - Location addition (Add Location)
