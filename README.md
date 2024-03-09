@@ -1,4 +1,5 @@
-# Crime Express is a web application designed as a project for the Full Stack module assignment.
+# Crime Express (CE) 
+CE is a web application designed as a project for the Full Stack module assignment.
 
 ## About the application:
  <p> The application allows users to report incidents in real-time, with updates instantly reflected on the dashboard. 
@@ -6,7 +7,7 @@
   The ultimate goal of the app is to facilitate rapid incident reporting, where users vetted by law enforcement can request immediate assistance with a single click (such as a triple volume button click).
 </p>
 
-### This is the initial version of the application and it includes basic functionalities such as:
+<p> This is the initial version of the application and it includes basic functionalities such as: </p>
 -  User registration (Sign up)
 - User authentication (Login)
 - Location addition (Add Location)
